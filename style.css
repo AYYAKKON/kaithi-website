@@ -1,0 +1,162 @@
+body{
+    background-image: url(5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+h3{
+    color: orangered;
+    margin-left: 40px;
+    break-after:avoid;
+    font-weight: bold;
+    
+
+}
+
+nav{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-weight: bold;
+    
+}
+nav a{
+    text-decoration: none;
+    color: red;
+    margin-left: 50px;
+    margin-top: 0px;
+
+
+}
+input{
+    margin-left: 100px;
+    outline: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 20px;
+    margin-top: 0%;
+    
+}
+
+button{
+    background-color: orangered;
+    color: white;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+button:hover{
+    color: black;
+    background-color: yellow;
+}
+
+
+nav a:hover{
+    color: black;
+    background-color: white;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+h1{
+    font-weight: bold;
+    margin-top: 150px;
+    margin-left: 90px;
+    color: white;
+}
+#development{
+    color:orangered;
+}
+p{
+    color: white;
+    margin-left: 90px;
+}
+#b1{
+    margin-left: 90px;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+   
+}
+#b1:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+form{
+    
+    background-color:white;
+    width:400px;
+    min-height:300PX ;
+    border-radius: 30px;
+    padding: 1px;
+    position: relative;
+    left: 750px;
+    bottom:370px;
+
+}
+#l1{
+    
+    outline: none;
+    border-radius: 7px;
+    width: 200px;
+    height: 30px;
+
+
+    margin-bottom: 5%;
+    border: none;
+    outline: none;
+    background: transparent;
+    border-color: black;
+    border-bottom:1px solid;
+    border-color: black;
+    margin-top: -2%;
+   
+}
+
+.name{
+    color: orangered;
+    margin-left: 0%;
+    font-size: 40px;
+}
+.li{
+    margin-left: 400px;
+    margin-top: 10px;
+}
+
+#b2{
+
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    text-decoration: none;
+    
+
+   
+}
+#b2:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+.aaa{
+    background-color: gray;
+    padding: 10px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+#cnt{
+    background-color: white;
+    color: black;
+    width: 400px;
+    height: 130px;
+    padding: 20px;
+    border-radius: 30px;
+    font-weight: bold;
+}
